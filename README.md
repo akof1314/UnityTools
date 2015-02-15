@@ -17,6 +17,7 @@ UnityTools
     +  美术
         -  2D
             +  [导出切片精灵](http://blog.csdn.net/akof1314/article/details/38845933)
+            +  [ShoeBox提取精灵](http://blog.csdn.net/akof1314/article/details/43834293)
         -  3D
             +  [粒子快捷操作](https://www.assetstore.unity3d.com/en/#!/content/4215)*
 *  上下文菜单
