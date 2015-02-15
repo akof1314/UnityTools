@@ -22,6 +22,9 @@ UnityTools
 *  上下文菜单
 	+  Transform
 		+  [快捷复制粘贴](http://wiki.unity3d.com/index.php/TransformContextMenu)
++  其他
+	+  [Visual Studio Tools for Unity](http://unityvs.com/)
+	+  [Unity代码注释提示](https://www.assetstore.unity3d.com/en/#!/content/22906)*
 
 
 ----------
